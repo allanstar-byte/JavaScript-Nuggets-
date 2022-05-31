@@ -1,3 +1,5 @@
+// How to use switch in JS
+
 const name = "Sleepy";
 let characterType;
 
@@ -24,4 +26,5 @@ switch (name) {
     characterType = "minor character";
 }
 
+//Console.log is used in printing information about the program.
 console.log(characterType);
